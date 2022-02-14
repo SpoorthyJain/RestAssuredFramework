@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-13T12:54:13 IST" name="Default suite" finished-at="2022-02-13T12:54:15 IST" duration-ms="1775">
+    <groups>
+    </groups>
+    <test started-at="2022-02-13T12:54:13 IST" name="Default test" finished-at="2022-02-13T12:54:15 IST" duration-ms="1775">
+      <class name="com.RMGYantraTests.UpdateResourceAndVerifyInDatabase">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:com.RMGYantraTests.UpdateResourceAndVerifyInDatabase@31d7b7bf]" started-at="2022-02-13T12:54:12 IST" name="bsConfig" finished-at="2022-02-13T12:54:13 IST" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method signature="updateResourceAndVerifyInDB()[pri:0, instance:com.RMGYantraTests.UpdateResourceAndVerifyInDatabase@31d7b7bf]" started-at="2022-02-13T12:54:13 IST" name="updateResourceAndVerifyInDB" finished-at="2022-02-13T12:54:15 IST" duration-ms="1738" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updateResourceAndVerifyInDB -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:com.RMGYantraTests.UpdateResourceAndVerifyInDatabase@31d7b7bf]" started-at="2022-02-13T12:54:15 IST" name="asConfig" finished-at="2022-02-13T12:54:15 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- com.RMGYantraTests.UpdateResourceAndVerifyInDatabase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
